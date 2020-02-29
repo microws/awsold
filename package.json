@@ -18,6 +18,7 @@
   "homepage": "https://github.com/microws/aws#readme",
   "dependencies": {
     "@lifeomic/attempt": "^3.0.0",
-    "aws-sdk": "^2.470.0"
+    "@microws/streams": "file:../streams",
+    "aws-sdk": "^2.630.0"
   }
 }
